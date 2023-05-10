@@ -1,0 +1,3 @@
+C:/Users/Samet/STM32CubeIDE/workspace_1.12.0/BMP_280/build/debug/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Samet/STM32CubeIDE/workspace_1.12.0/BMP_280/build/debug/build/CMakeFiles/BMP_280.dir
+C:/Users/Samet/STM32CubeIDE/workspace_1.12.0/BMP_280/build/debug/build/CMakeFiles/edit_cache.dir
